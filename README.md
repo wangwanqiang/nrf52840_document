@@ -6,3 +6,6 @@
 ## using as sniffer 
 
 https://www.cnblogs.com/unrulife/p/10818248.html
+
+Sniffer 官方软件下载
+https://www.nordicsemi.com/Software-and-tools/Development-Tools/nRF-Sniffer-for-Bluetooth-LE/Download#infotabs
